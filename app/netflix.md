@@ -33,7 +33,7 @@
       "sniffing": {
         "enabled": true, //一定要开启 sniffing，V2Ray 才能识别 Netflix 的流量
         "destOverride": ["http", "tls"]
-      },
+      }
     }
   ],
   "outbounds": [
